@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/review-java01/jdbc/jdbcreview.iml" filepath="$PROJECT_DIR$/review-java01/jdbc/jdbcreview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/review-java01/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/review-java01/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/review-java01/review-web/review-web.iml" filepath="$PROJECT_DIR$/review-java01/review-web/review-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/reviewJava.iml" filepath="$PROJECT_DIR$/.idea/reviewJava.iml" />
     </modules>
   </component>

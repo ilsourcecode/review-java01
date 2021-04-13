@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="review-web:war">
+    <output-path>$PROJECT_DIR$/review-java01/review-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>review-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="review-web.war">
+      <element id="artifact" artifact-name="review-web:war exploded" />
+    </root>
+  </artifact>
+</component>
